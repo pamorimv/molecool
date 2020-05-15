@@ -1,1 +1,2 @@
 Testing a file that I added to the clone.
+This line does not add any value.
