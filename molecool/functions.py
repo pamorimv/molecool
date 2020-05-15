@@ -54,14 +54,6 @@ def zen(with_attribution=True):
         quote += "\n\t- Tim Peters"
     return quote
 
-import os
-import numpy as np
-import matplotlib.pyplot as plt
-
-from mpl_toolkits.mplot3d import Axes3D
-
-%matplotlib notebook
-
 def calculate_distance(rA, rB):
     # This function calculates the distance between two points given as numpy arrays.
     d=(rA-rB)
