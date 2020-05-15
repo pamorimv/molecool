@@ -1,2 +1,9 @@
+*************************************
+This is the start of testing.txt.txt
+*************************************
+
+
 Testing a file that I added to the clone.
-This line does not add any value.
+*************************************
+This is the end of testing.txt.txt
+*************************************
