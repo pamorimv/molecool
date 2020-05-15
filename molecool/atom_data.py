@@ -1,3 +1,7 @@
+'''
+Data used for the rest of the package
+'''
+
 atomic_weights = {
     'H': 1.00784,
     'C': 12.0107,
